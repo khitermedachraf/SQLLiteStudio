@@ -1,0 +1,6 @@
+UPDATE Projet
+   SET durée = 2
+ WHERE CodeP = 'P001'
+UPDATE Projet
+   SET durée = 4
+ WHERE CodeP = 'P002'
